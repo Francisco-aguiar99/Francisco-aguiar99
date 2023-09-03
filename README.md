@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Francisco-aguiar99
 - 👀 I’m interested in  -> Sempre aprendendo
-- 🌱 I’m currently learning  -> Python 
+- 🌱 I’m currently learning  -> Python / SQl / HTML
 - 💞️ I’m looking to collaborate on -> Com tudo poder chamar 
 - 📫 How to reach me ...
 
